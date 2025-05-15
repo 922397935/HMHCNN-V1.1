@@ -3,6 +3,7 @@
 1. Multi-layer hypernetwork of scientific research cooperation
 2. Multi-layer hypernetwork of citations
 3. Multi-layer hypernetwork of biology 
+Datasets can be clone from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15421241.svg)](https://doi.org/10.5281/zenodo.15421241)
 ## Methods
 Hyperbolic Hypergraph Convolutional Multi-channel 
 ## Ablation
